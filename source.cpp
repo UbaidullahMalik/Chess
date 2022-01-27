@@ -1,10 +1,3 @@
-/* Name: Ubaidullah
-   Roll.no:20i0541
-   Sec: T
-   
-   Project: Chess
-*/
-
 #include<iostream>
 #include<iomanip>
 
